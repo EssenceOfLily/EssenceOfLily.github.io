@@ -7,21 +7,21 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Lily's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Lily's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://essenceoflily.github.io/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Lily Nguyen",
+  logo_name: "EssenceOfLily",
+  nickname: "cheng",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -104,7 +104,7 @@ const skills = {
         },
         {
           skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          fontAwesomeClassname: "pepicons-print:flower-bud",
           style: {
             backgroundColor: "white",
             color: "#D00000",
